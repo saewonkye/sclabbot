@@ -1,0 +1,46 @@
+2016-04-02 오후 5:32:10 800 Logging started
+2016-04-02 오후 5:32:10 800 Begin Startup
+2016-04-02 오후 5:32:10 800 Chaosauncher 0.5.4.4 on NT 6.1.7601 Service Pack 1 at C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Chaoslauncher.exe
+2016-04-02 오후 5:32:10 800 Load Settings
+2016-04-02 오후 5:32:10 800 GamePath: C:\Users\Administrator\Documents\스타크래프트1\
+2016-04-02 오후 5:32:10 800 Load Plugins
+2016-04-02 오후 5:32:10 800 AdvLoaderPluginPath: \Plugins\
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\iccscbn.icc
+2016-04-02 오후 5:32:10 800 Plugin loaded ICCup
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Plugins\APMAlert.bwl
+2016-04-02 오후 5:32:10 800 Plugin loaded APMAlert (1.16.1)
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Plugins\BWAPI_PluginInjector.bwl
+2016-04-02 오후 5:32:10 800 Plugin loaded BWAPI 4.1.2 Injector [RELEASE]
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Plugins\Chaosplugin.bwl
+2016-04-02 오후 5:32:10 800 Plugin loaded Chaosplugin for 1.16.1
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Plugins\LatencyChanger.bwl
+2016-04-02 오후 5:32:10 800 Plugin loaded LatencyChanger for 1.16.1
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Plugins\repfix.bwl
+2016-04-02 오후 5:32:10 800 Plugin loaded RepFix
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Plugins\RWAPlayer.bwl
+2016-04-02 오후 5:32:10 800 Plugin loaded RWAPlayer (1.16.1)
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Plugins\RWARecorder.bwl
+2016-04-02 오후 5:32:10 800 Plugin loaded RWARecorder (1.16.1)
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Plugins\Stormplugin.bwl
+2016-04-02 오후 5:32:10 800 Plugin loaded Stormplugin for 1.16.1
+2016-04-02 오후 5:32:10 800 Loading BWL4-Plugin C:\Users\Administrator\Desktop\SCLabBot\Chaoslauncher\Plugins\wmode.bwl
+2016-04-02 오후 5:32:10 800 Plugin loaded W-MODE 1.02
+2016-04-02 오후 5:32:10 800 Load Tools
+2016-04-02 오후 5:32:10 800 Init GUI
+2016-04-02 오후 5:32:10 800 Get Starcraftversions
+2016-04-02 오후 5:32:10 800 Init complete
+2016-04-02 오후 5:32:20 800 Startbutton
+2016-04-02 오후 5:32:20 800 Starting Game Starcraft 1.16.1 C:\Users\Administrator\Documents\스타크래프트1\starcraft.exe
+2016-04-02 오후 5:32:20 800 BWAPI 4.1.2 Injector [RELEASE] Version  Compatible
+2016-04-02 오후 5:32:20 800 W-MODE 1.02 Version 1.0.2 Compatible
+2016-04-02 오후 5:32:20 800 Obtained DebugPrivilege
+2016-04-02 오후 5:32:20 800 CreateProcess
+2016-04-02 오후 5:32:20 800 Call ScSuspended for all active Plugins
+2016-04-02 오후 5:32:20 800 ApplyPatchSuspended for BWAPI 4.1.2 Injector [RELEASE]
+2016-04-02 오후 5:32:20 800 ApplyPatchSuspended for W-MODE 1.02
+2016-04-02 오후 5:32:20 800 ResumeThread
+2016-04-02 오후 5:32:20 800 WaitForInputIdle
+2016-04-02 오후 5:32:20 800 Call ScWindowCreated for all active Plugins
+2016-04-02 오후 5:32:20 800 ApplyPatch for BWAPI 4.1.2 Injector [RELEASE]
+2016-04-02 오후 5:32:20 800 ApplyPatch for W-MODE 1.02
+2016-04-02 오후 5:32:20 800 Starting Starcraft completed
