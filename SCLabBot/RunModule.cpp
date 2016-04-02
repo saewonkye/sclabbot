@@ -5,6 +5,7 @@ using namespace BWAPI;
 using namespace Filter;
 
 void RunModule::onStart(){
+	//I have made this change
 	if (Broodwar->enemy())
 		Broodwar << "The match up is " << Broodwar->self()->getRace() << " vs " << Broodwar->enemy()->getRace() << std::endl;
 
